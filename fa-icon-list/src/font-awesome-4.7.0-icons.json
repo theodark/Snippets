@@ -1,0 +1,3377 @@
+[
+	{
+		"icon": "500px",
+		"name": "500px",
+		"code": "f26e"
+	},
+	{
+		"icon": "address-book",
+		"name": "Address Book",
+		"code": "f2b9"
+	},
+	{
+		"icon": "address-book-o",
+		"name": "Address Book O",
+		"code": "f2ba"
+	},
+	{
+		"icon": "address-card",
+		"name": "Address Card",
+		"code": "f2bb"
+	},
+	{
+		"icon": "address-card-o",
+		"name": "Address Card O",
+		"code": "f2bc"
+	},
+	{
+		"icon": "adjust",
+		"name": "Adjust",
+		"code": "f042"
+	},
+	{
+		"icon": "adn",
+		"name": "Adn",
+		"code": "f170"
+	},
+	{
+		"icon": "align-center",
+		"name": "Align Center",
+		"code": "f037"
+	},
+	{
+		"icon": "align-justify",
+		"name": "Align Justify",
+		"code": "f039"
+	},
+	{
+		"icon": "align-left",
+		"name": "Align Left",
+		"code": "f036"
+	},
+	{
+		"icon": "align-right",
+		"name": "Align Right",
+		"code": "f038"
+	},
+	{
+		"icon": "amazon",
+		"name": "Amazon",
+		"code": "f270"
+	},
+	{
+		"icon": "ambulance",
+		"name": "Ambulance",
+		"code": "f0f9"
+	},
+	{
+		"icon": "american-sign-language-interpreting",
+		"name": "American Sign Language Interpreting",
+		"code": "f2a3"
+	},
+	{
+		"icon": "anchor",
+		"name": "Anchor",
+		"code": "f13d"
+	},
+	{
+		"icon": "android",
+		"name": "Android",
+		"code": "f17b"
+	},
+	{
+		"icon": "angellist",
+		"name": "Angellist",
+		"code": "f209"
+	},
+	{
+		"icon": "angle-double-down",
+		"name": "Angle Double Down",
+		"code": "f103"
+	},
+	{
+		"icon": "angle-double-left",
+		"name": "Angle Double Left",
+		"code": "f100"
+	},
+	{
+		"icon": "angle-double-right",
+		"name": "Angle Double Right",
+		"code": "f101"
+	},
+	{
+		"icon": "angle-double-up",
+		"name": "Angle Double Up",
+		"code": "f102"
+	},
+	{
+		"icon": "angle-down",
+		"name": "Angle Down",
+		"code": "f107"
+	},
+	{
+		"icon": "angle-left",
+		"name": "Angle Left",
+		"code": "f104"
+	},
+	{
+		"icon": "angle-right",
+		"name": "Angle Right",
+		"code": "f105"
+	},
+	{
+		"icon": "angle-up",
+		"name": "Angle Up",
+		"code": "f106"
+	},
+	{
+		"icon": "apple",
+		"name": "Apple",
+		"code": "f179"
+	},
+	{
+		"icon": "archive",
+		"name": "Archive",
+		"code": "f187"
+	},
+	{
+		"icon": "area-chart",
+		"name": "Area Chart",
+		"code": "f1fe"
+	},
+	{
+		"icon": "arrow-circle-down",
+		"name": "Arrow Circle Down",
+		"code": "f0ab"
+	},
+	{
+		"icon": "arrow-circle-left",
+		"name": "Arrow Circle Left",
+		"code": "f0a8"
+	},
+	{
+		"icon": "arrow-circle-o-down",
+		"name": "Arrow Circle O Down",
+		"code": "f01a"
+	},
+	{
+		"icon": "arrow-circle-o-left",
+		"name": "Arrow Circle O Left",
+		"code": "f190"
+	},
+	{
+		"icon": "arrow-circle-o-right",
+		"name": "Arrow Circle O Right",
+		"code": "f18e"
+	},
+	{
+		"icon": "arrow-circle-o-up",
+		"name": "Arrow Circle O Up",
+		"code": "f01b"
+	},
+	{
+		"icon": "arrow-circle-right",
+		"name": "Arrow Circle Right",
+		"code": "f0a9"
+	},
+	{
+		"icon": "arrow-circle-up",
+		"name": "Arrow Circle Up",
+		"code": "f0aa"
+	},
+	{
+		"icon": "arrow-down",
+		"name": "Arrow Down",
+		"code": "f063"
+	},
+	{
+		"icon": "arrow-left",
+		"name": "Arrow Left",
+		"code": "f060"
+	},
+	{
+		"icon": "arrow-right",
+		"name": "Arrow Right",
+		"code": "f061"
+	},
+	{
+		"icon": "arrow-up",
+		"name": "Arrow Up",
+		"code": "f062"
+	},
+	{
+		"icon": "arrows",
+		"name": "Arrows",
+		"code": "f047"
+	},
+	{
+		"icon": "arrows-alt",
+		"name": "Arrows Alt",
+		"code": "f0b2"
+	},
+	{
+		"icon": "arrows-h",
+		"name": "Arrows H",
+		"code": "f07e"
+	},
+	{
+		"icon": "arrows-v",
+		"name": "Arrows V",
+		"code": "f07d"
+	},
+	{
+		"icon": "assistive-listening-systems",
+		"name": "Assistive Listening Systems",
+		"code": "f2a2"
+	},
+	{
+		"icon": "asterisk",
+		"name": "Asterisk",
+		"code": "f069"
+	},
+	{
+		"icon": "at",
+		"name": "At",
+		"code": "f1fa"
+	},
+	{
+		"icon": "audio-description",
+		"name": "Audio Description",
+		"code": "f29e"
+	},
+	{
+		"icon": "backward",
+		"name": "Backward",
+		"code": "f04a"
+	},
+	{
+		"icon": "balance-scale",
+		"name": "Balance Scale",
+		"code": "f24e"
+	},
+	{
+		"icon": "ban",
+		"name": "Ban",
+		"code": "f05e"
+	},
+	{
+		"icon": "bandcamp",
+		"name": "Bandcamp",
+		"code": "f2d5"
+	},
+	{
+		"icon": "bar-chart",
+		"name": "Bar Chart",
+		"code": "f080"
+	},
+	{
+		"icon": "barcode",
+		"name": "Barcode",
+		"code": "f02a"
+	},
+	{
+		"icon": "bars",
+		"name": "Bars",
+		"code": "f0c9"
+	},
+	{
+		"icon": "bath",
+		"name": "Bath",
+		"code": "f2cd"
+	},
+	{
+		"icon": "battery-empty",
+		"name": "Battery Empty",
+		"code": "f244"
+	},
+	{
+		"icon": "battery-full",
+		"name": "Battery Full",
+		"code": "f240"
+	},
+	{
+		"icon": "battery-half",
+		"name": "Battery Half",
+		"code": "f242"
+	},
+	{
+		"icon": "battery-quarter",
+		"name": "Battery Quarter",
+		"code": "f243"
+	},
+	{
+		"icon": "battery-three-quarters",
+		"name": "Battery Three Quarters",
+		"code": "f241"
+	},
+	{
+		"icon": "bed",
+		"name": "Bed",
+		"code": "f236"
+	},
+	{
+		"icon": "beer",
+		"name": "Beer",
+		"code": "f0fc"
+	},
+	{
+		"icon": "behance",
+		"name": "Behance",
+		"code": "f1b4"
+	},
+	{
+		"icon": "behance-square",
+		"name": "Behance Square",
+		"code": "f1b5"
+	},
+	{
+		"icon": "bell",
+		"name": "Bell",
+		"code": "f0f3"
+	},
+	{
+		"icon": "bell-o",
+		"name": "Bell O",
+		"code": "f0a2"
+	},
+	{
+		"icon": "bell-slash",
+		"name": "Bell Slash",
+		"code": "f1f6"
+	},
+	{
+		"icon": "bell-slash-o",
+		"name": "Bell Slash O",
+		"code": "f1f7"
+	},
+	{
+		"icon": "bicycle",
+		"name": "Bicycle",
+		"code": "f206"
+	},
+	{
+		"icon": "binoculars",
+		"name": "Binoculars",
+		"code": "f1e5"
+	},
+	{
+		"icon": "birthday-cake",
+		"name": "Birthday Cake",
+		"code": "f1fd"
+	},
+	{
+		"icon": "bitbucket",
+		"name": "Bitbucket",
+		"code": "f171"
+	},
+	{
+		"icon": "bitbucket-square",
+		"name": "Bitbucket Square",
+		"code": "f172"
+	},
+	{
+		"icon": "black-tie",
+		"name": "Black Tie",
+		"code": "f27e"
+	},
+	{
+		"icon": "blind",
+		"name": "Blind",
+		"code": "f29d"
+	},
+	{
+		"icon": "bluetooth",
+		"name": "Bluetooth",
+		"code": "f293"
+	},
+	{
+		"icon": "bluetooth-b",
+		"name": "Bluetooth B",
+		"code": "f294"
+	},
+	{
+		"icon": "bold",
+		"name": "Bold",
+		"code": "f032"
+	},
+	{
+		"icon": "bolt",
+		"name": "Bolt",
+		"code": "f0e7"
+	},
+	{
+		"icon": "bomb",
+		"name": "Bomb",
+		"code": "f1e2"
+	},
+	{
+		"icon": "book",
+		"name": "Book",
+		"code": "f02d"
+	},
+	{
+		"icon": "bookmark",
+		"name": "Bookmark",
+		"code": "f02e"
+	},
+	{
+		"icon": "bookmark-o",
+		"name": "Bookmark O",
+		"code": "f097"
+	},
+	{
+		"icon": "braille",
+		"name": "Braille",
+		"code": "f2a1"
+	},
+	{
+		"icon": "briefcase",
+		"name": "Briefcase",
+		"code": "f0b1"
+	},
+	{
+		"icon": "btc",
+		"name": "Btc",
+		"code": "f15a"
+	},
+	{
+		"icon": "bug",
+		"name": "Bug",
+		"code": "f188"
+	},
+	{
+		"icon": "building",
+		"name": "Building",
+		"code": "f1ad"
+	},
+	{
+		"icon": "building-o",
+		"name": "Building O",
+		"code": "f0f7"
+	},
+	{
+		"icon": "bullhorn",
+		"name": "Bullhorn",
+		"code": "f0a1"
+	},
+	{
+		"icon": "bullseye",
+		"name": "Bullseye",
+		"code": "f140"
+	},
+	{
+		"icon": "bus",
+		"name": "Bus",
+		"code": "f207"
+	},
+	{
+		"icon": "buysellads",
+		"name": "Buysellads",
+		"code": "f20d"
+	},
+	{
+		"icon": "calculator",
+		"name": "Calculator",
+		"code": "f1ec"
+	},
+	{
+		"icon": "calendar",
+		"name": "Calendar",
+		"code": "f073"
+	},
+	{
+		"icon": "calendar-check-o",
+		"name": "Calendar Check O",
+		"code": "f274"
+	},
+	{
+		"icon": "calendar-minus-o",
+		"name": "Calendar Minus O",
+		"code": "f272"
+	},
+	{
+		"icon": "calendar-o",
+		"name": "Calendar O",
+		"code": "f133"
+	},
+	{
+		"icon": "calendar-plus-o",
+		"name": "Calendar Plus O",
+		"code": "f271"
+	},
+	{
+		"icon": "calendar-times-o",
+		"name": "Calendar Times O",
+		"code": "f273"
+	},
+	{
+		"icon": "camera",
+		"name": "Camera",
+		"code": "f030"
+	},
+	{
+		"icon": "camera-retro",
+		"name": "Camera Retro",
+		"code": "f083"
+	},
+	{
+		"icon": "car",
+		"name": "Car",
+		"code": "f1b9"
+	},
+	{
+		"icon": "caret-down",
+		"name": "Caret Down",
+		"code": "f0d7"
+	},
+	{
+		"icon": "caret-left",
+		"name": "Caret Left",
+		"code": "f0d9"
+	},
+	{
+		"icon": "caret-right",
+		"name": "Caret Right",
+		"code": "f0da"
+	},
+	{
+		"icon": "caret-square-o-down",
+		"name": "Caret Square O Down",
+		"code": "f150"
+	},
+	{
+		"icon": "caret-square-o-left",
+		"name": "Caret Square O Left",
+		"code": "f191"
+	},
+	{
+		"icon": "caret-square-o-right",
+		"name": "Caret Square O Right",
+		"code": "f152"
+	},
+	{
+		"icon": "caret-square-o-up",
+		"name": "Caret Square O Up",
+		"code": "f151"
+	},
+	{
+		"icon": "caret-up",
+		"name": "Caret Up",
+		"code": "f0d8"
+	},
+	{
+		"icon": "cart-arrow-down",
+		"name": "Cart Arrow Down",
+		"code": "f218"
+	},
+	{
+		"icon": "cart-plus",
+		"name": "Cart Plus",
+		"code": "f217"
+	},
+	{
+		"icon": "cc",
+		"name": "Cc",
+		"code": "f20a"
+	},
+	{
+		"icon": "cc-amex",
+		"name": "Cc Amex",
+		"code": "f1f3"
+	},
+	{
+		"icon": "cc-diners-club",
+		"name": "Cc Diners Club",
+		"code": "f24c"
+	},
+	{
+		"icon": "cc-discover",
+		"name": "Cc Discover",
+		"code": "f1f2"
+	},
+	{
+		"icon": "cc-jcb",
+		"name": "Cc Jcb",
+		"code": "f24b"
+	},
+	{
+		"icon": "cc-mastercard",
+		"name": "Cc Mastercard",
+		"code": "f1f1"
+	},
+	{
+		"icon": "cc-paypal",
+		"name": "Cc Paypal",
+		"code": "f1f4"
+	},
+	{
+		"icon": "cc-stripe",
+		"name": "Cc Stripe",
+		"code": "f1f5"
+	},
+	{
+		"icon": "cc-visa",
+		"name": "Cc Visa",
+		"code": "f1f0"
+	},
+	{
+		"icon": "certificate",
+		"name": "Certificate",
+		"code": "f0a3"
+	},
+	{
+		"icon": "chain-broken",
+		"name": "Chain Broken",
+		"code": "f127"
+	},
+	{
+		"icon": "check",
+		"name": "Check",
+		"code": "f00c"
+	},
+	{
+		"icon": "check-circle",
+		"name": "Check Circle",
+		"code": "f058"
+	},
+	{
+		"icon": "check-circle-o",
+		"name": "Check Circle O",
+		"code": "f05d"
+	},
+	{
+		"icon": "check-square",
+		"name": "Check Square",
+		"code": "f14a"
+	},
+	{
+		"icon": "check-square-o",
+		"name": "Check Square O",
+		"code": "f046"
+	},
+	{
+		"icon": "chevron-circle-down",
+		"name": "Chevron Circle Down",
+		"code": "f13a"
+	},
+	{
+		"icon": "chevron-circle-left",
+		"name": "Chevron Circle Left",
+		"code": "f137"
+	},
+	{
+		"icon": "chevron-circle-right",
+		"name": "Chevron Circle Right",
+		"code": "f138"
+	},
+	{
+		"icon": "chevron-circle-up",
+		"name": "Chevron Circle Up",
+		"code": "f139"
+	},
+	{
+		"icon": "chevron-down",
+		"name": "Chevron Down",
+		"code": "f078"
+	},
+	{
+		"icon": "chevron-left",
+		"name": "Chevron Left",
+		"code": "f053"
+	},
+	{
+		"icon": "chevron-right",
+		"name": "Chevron Right",
+		"code": "f054"
+	},
+	{
+		"icon": "chevron-up",
+		"name": "Chevron Up",
+		"code": "f077"
+	},
+	{
+		"icon": "child",
+		"name": "Child",
+		"code": "f1ae"
+	},
+	{
+		"icon": "chrome",
+		"name": "Chrome",
+		"code": "f268"
+	},
+	{
+		"icon": "circle",
+		"name": "Circle",
+		"code": "f111"
+	},
+	{
+		"icon": "circle-o",
+		"name": "Circle O",
+		"code": "f10c"
+	},
+	{
+		"icon": "circle-o-notch",
+		"name": "Circle O Notch",
+		"code": "f1ce"
+	},
+	{
+		"icon": "circle-thin",
+		"name": "Circle Thin",
+		"code": "f1db"
+	},
+	{
+		"icon": "clipboard",
+		"name": "Clipboard",
+		"code": "f0ea"
+	},
+	{
+		"icon": "clock-o",
+		"name": "Clock O",
+		"code": "f017"
+	},
+	{
+		"icon": "clone",
+		"name": "Clone",
+		"code": "f24d"
+	},
+	{
+		"icon": "cloud",
+		"name": "Cloud",
+		"code": "f0c2"
+	},
+	{
+		"icon": "cloud-download",
+		"name": "Cloud Download",
+		"code": "f0ed"
+	},
+	{
+		"icon": "cloud-upload",
+		"name": "Cloud Upload",
+		"code": "f0ee"
+	},
+	{
+		"icon": "code",
+		"name": "Code",
+		"code": "f121"
+	},
+	{
+		"icon": "code-fork",
+		"name": "Code Fork",
+		"code": "f126"
+	},
+	{
+		"icon": "codepen",
+		"name": "Codepen",
+		"code": "f1cb"
+	},
+	{
+		"icon": "codiepie",
+		"name": "Codiepie",
+		"code": "f284"
+	},
+	{
+		"icon": "coffee",
+		"name": "Coffee",
+		"code": "f0f4"
+	},
+	{
+		"icon": "cog",
+		"name": "Cog",
+		"code": "f013"
+	},
+	{
+		"icon": "cogs",
+		"name": "Cogs",
+		"code": "f085"
+	},
+	{
+		"icon": "columns",
+		"name": "Columns",
+		"code": "f0db"
+	},
+	{
+		"icon": "comment",
+		"name": "Comment",
+		"code": "f075"
+	},
+	{
+		"icon": "comment-o",
+		"name": "Comment O",
+		"code": "f0e5"
+	},
+	{
+		"icon": "commenting",
+		"name": "Commenting",
+		"code": "f27a"
+	},
+	{
+		"icon": "commenting-o",
+		"name": "Commenting O",
+		"code": "f27b"
+	},
+	{
+		"icon": "comments",
+		"name": "Comments",
+		"code": "f086"
+	},
+	{
+		"icon": "comments-o",
+		"name": "Comments O",
+		"code": "f0e6"
+	},
+	{
+		"icon": "compass",
+		"name": "Compass",
+		"code": "f14e"
+	},
+	{
+		"icon": "compress",
+		"name": "Compress",
+		"code": "f066"
+	},
+	{
+		"icon": "connectdevelop",
+		"name": "Connectdevelop",
+		"code": "f20e"
+	},
+	{
+		"icon": "contao",
+		"name": "Contao",
+		"code": "f26d"
+	},
+	{
+		"icon": "copyright",
+		"name": "Copyright",
+		"code": "f1f9"
+	},
+	{
+		"icon": "creative-commons",
+		"name": "Creative Commons",
+		"code": "f25e"
+	},
+	{
+		"icon": "credit-card",
+		"name": "Credit Card",
+		"code": "f09d"
+	},
+	{
+		"icon": "credit-card-alt",
+		"name": "Credit Card Alt",
+		"code": "f283"
+	},
+	{
+		"icon": "crop",
+		"name": "Crop",
+		"code": "f125"
+	},
+	{
+		"icon": "crosshairs",
+		"name": "Crosshairs",
+		"code": "f05b"
+	},
+	{
+		"icon": "css3",
+		"name": "Css3",
+		"code": "f13c"
+	},
+	{
+		"icon": "cube",
+		"name": "Cube",
+		"code": "f1b2"
+	},
+	{
+		"icon": "cubes",
+		"name": "Cubes",
+		"code": "f1b3"
+	},
+	{
+		"icon": "cutlery",
+		"name": "Cutlery",
+		"code": "f0f5"
+	},
+	{
+		"icon": "dashcube",
+		"name": "Dashcube",
+		"code": "f210"
+	},
+	{
+		"icon": "database",
+		"name": "Database",
+		"code": "f1c0"
+	},
+	{
+		"icon": "deaf",
+		"name": "Deaf",
+		"code": "f2a4"
+	},
+	{
+		"icon": "delicious",
+		"name": "Delicious",
+		"code": "f1a5"
+	},
+	{
+		"icon": "desktop",
+		"name": "Desktop",
+		"code": "f108"
+	},
+	{
+		"icon": "deviantart",
+		"name": "Deviantart",
+		"code": "f1bd"
+	},
+	{
+		"icon": "diamond",
+		"name": "Diamond",
+		"code": "f219"
+	},
+	{
+		"icon": "digg",
+		"name": "Digg",
+		"code": "f1a6"
+	},
+	{
+		"icon": "dot-circle-o",
+		"name": "Dot Circle O",
+		"code": "f192"
+	},
+	{
+		"icon": "download",
+		"name": "Download",
+		"code": "f019"
+	},
+	{
+		"icon": "dribbble",
+		"name": "Dribbble",
+		"code": "f17d"
+	},
+	{
+		"icon": "dropbox",
+		"name": "Dropbox",
+		"code": "f16b"
+	},
+	{
+		"icon": "drupal",
+		"name": "Drupal",
+		"code": "f1a9"
+	},
+	{
+		"icon": "edge",
+		"name": "Edge",
+		"code": "f282"
+	},
+	{
+		"icon": "eercast",
+		"name": "Eercast",
+		"code": "f2da"
+	},
+	{
+		"icon": "eject",
+		"name": "Eject",
+		"code": "f052"
+	},
+	{
+		"icon": "ellipsis-h",
+		"name": "Ellipsis H",
+		"code": "f141"
+	},
+	{
+		"icon": "ellipsis-v",
+		"name": "Ellipsis V",
+		"code": "f142"
+	},
+	{
+		"icon": "empire",
+		"name": "Empire",
+		"code": "f1d1"
+	},
+	{
+		"icon": "envelope",
+		"name": "Envelope",
+		"code": "f0e0"
+	},
+	{
+		"icon": "envelope-o",
+		"name": "Envelope O",
+		"code": "f003"
+	},
+	{
+		"icon": "envelope-open",
+		"name": "Envelope Open",
+		"code": "f2b6"
+	},
+	{
+		"icon": "envelope-open-o",
+		"name": "Envelope Open O",
+		"code": "f2b7"
+	},
+	{
+		"icon": "envelope-square",
+		"name": "Envelope Square",
+		"code": "f199"
+	},
+	{
+		"icon": "envira",
+		"name": "Envira",
+		"code": "f299"
+	},
+	{
+		"icon": "eraser",
+		"name": "Eraser",
+		"code": "f12d"
+	},
+	{
+		"icon": "etsy",
+		"name": "Etsy",
+		"code": "f2d7"
+	},
+	{
+		"icon": "eur",
+		"name": "Eur",
+		"code": "f153"
+	},
+	{
+		"icon": "exchange",
+		"name": "Exchange",
+		"code": "f0ec"
+	},
+	{
+		"icon": "exclamation",
+		"name": "Exclamation",
+		"code": "f12a"
+	},
+	{
+		"icon": "exclamation-circle",
+		"name": "Exclamation Circle",
+		"code": "f06a"
+	},
+	{
+		"icon": "exclamation-triangle",
+		"name": "Exclamation Triangle",
+		"code": "f071"
+	},
+	{
+		"icon": "expand",
+		"name": "Expand",
+		"code": "f065"
+	},
+	{
+		"icon": "expeditedssl",
+		"name": "Expeditedssl",
+		"code": "f23e"
+	},
+	{
+		"icon": "external-link",
+		"name": "External Link",
+		"code": "f08e"
+	},
+	{
+		"icon": "external-link-square",
+		"name": "External Link Square",
+		"code": "f14c"
+	},
+	{
+		"icon": "eye",
+		"name": "Eye",
+		"code": "f06e"
+	},
+	{
+		"icon": "eye-slash",
+		"name": "Eye Slash",
+		"code": "f070"
+	},
+	{
+		"icon": "eyedropper",
+		"name": "Eyedropper",
+		"code": "f1fb"
+	},
+	{
+		"icon": "facebook",
+		"name": "Facebook",
+		"code": "f09a"
+	},
+	{
+		"icon": "facebook-official",
+		"name": "Facebook Official",
+		"code": "f230"
+	},
+	{
+		"icon": "facebook-square",
+		"name": "Facebook Square",
+		"code": "f082"
+	},
+	{
+		"icon": "fast-backward",
+		"name": "Fast Backward",
+		"code": "f049"
+	},
+	{
+		"icon": "fast-forward",
+		"name": "Fast Forward",
+		"code": "f050"
+	},
+	{
+		"icon": "fax",
+		"name": "Fax",
+		"code": "f1ac"
+	},
+	{
+		"icon": "female",
+		"name": "Female",
+		"code": "f182"
+	},
+	{
+		"icon": "fighter-jet",
+		"name": "Fighter Jet",
+		"code": "f0fb"
+	},
+	{
+		"icon": "file",
+		"name": "File",
+		"code": "f15b"
+	},
+	{
+		"icon": "file-archive-o",
+		"name": "File Archive O",
+		"code": "f1c6"
+	},
+	{
+		"icon": "file-audio-o",
+		"name": "File Audio O",
+		"code": "f1c7"
+	},
+	{
+		"icon": "file-code-o",
+		"name": "File Code O",
+		"code": "f1c9"
+	},
+	{
+		"icon": "file-excel-o",
+		"name": "File Excel O",
+		"code": "f1c3"
+	},
+	{
+		"icon": "file-image-o",
+		"name": "File Image O",
+		"code": "f1c5"
+	},
+	{
+		"icon": "file-o",
+		"name": "File O",
+		"code": "f016"
+	},
+	{
+		"icon": "file-pdf-o",
+		"name": "File Pdf O",
+		"code": "f1c1"
+	},
+	{
+		"icon": "file-powerpoint-o",
+		"name": "File Powerpoint O",
+		"code": "f1c4"
+	},
+	{
+		"icon": "file-text",
+		"name": "File Text",
+		"code": "f15c"
+	},
+	{
+		"icon": "file-text-o",
+		"name": "File Text O",
+		"code": "f0f6"
+	},
+	{
+		"icon": "file-video-o",
+		"name": "File Video O",
+		"code": "f1c8"
+	},
+	{
+		"icon": "file-word-o",
+		"name": "File Word O",
+		"code": "f1c2"
+	},
+	{
+		"icon": "files-o",
+		"name": "Files O",
+		"code": "f0c5"
+	},
+	{
+		"icon": "film",
+		"name": "Film",
+		"code": "f008"
+	},
+	{
+		"icon": "filter",
+		"name": "Filter",
+		"code": "f0b0"
+	},
+	{
+		"icon": "fire",
+		"name": "Fire",
+		"code": "f06d"
+	},
+	{
+		"icon": "fire-extinguisher",
+		"name": "Fire Extinguisher",
+		"code": "f134"
+	},
+	{
+		"icon": "firefox",
+		"name": "Firefox",
+		"code": "f269"
+	},
+	{
+		"icon": "first-order",
+		"name": "First Order",
+		"code": "f2b0"
+	},
+	{
+		"icon": "flag",
+		"name": "Flag",
+		"code": "f024"
+	},
+	{
+		"icon": "flag-checkered",
+		"name": "Flag Checkered",
+		"code": "f11e"
+	},
+	{
+		"icon": "flag-o",
+		"name": "Flag O",
+		"code": "f11d"
+	},
+	{
+		"icon": "flask",
+		"name": "Flask",
+		"code": "f0c3"
+	},
+	{
+		"icon": "flickr",
+		"name": "Flickr",
+		"code": "f16e"
+	},
+	{
+		"icon": "floppy-o",
+		"name": "Floppy O",
+		"code": "f0c7"
+	},
+	{
+		"icon": "folder",
+		"name": "Folder",
+		"code": "f07b"
+	},
+	{
+		"icon": "folder-o",
+		"name": "Folder O",
+		"code": "f114"
+	},
+	{
+		"icon": "folder-open",
+		"name": "Folder Open",
+		"code": "f07c"
+	},
+	{
+		"icon": "folder-open-o",
+		"name": "Folder Open O",
+		"code": "f115"
+	},
+	{
+		"icon": "font",
+		"name": "Font",
+		"code": "f031"
+	},
+	{
+		"icon": "font-awesome",
+		"name": "Font Awesome",
+		"code": "f2b4"
+	},
+	{
+		"icon": "fonticons",
+		"name": "Fonticons",
+		"code": "f280"
+	},
+	{
+		"icon": "fort-awesome",
+		"name": "Fort Awesome",
+		"code": "f286"
+	},
+	{
+		"icon": "forumbee",
+		"name": "Forumbee",
+		"code": "f211"
+	},
+	{
+		"icon": "forward",
+		"name": "Forward",
+		"code": "f04e"
+	},
+	{
+		"icon": "foursquare",
+		"name": "Foursquare",
+		"code": "f180"
+	},
+	{
+		"icon": "free-code-camp",
+		"name": "Free Code Camp",
+		"code": "f2c5"
+	},
+	{
+		"icon": "frown-o",
+		"name": "Frown O",
+		"code": "f119"
+	},
+	{
+		"icon": "futbol-o",
+		"name": "Futbol O",
+		"code": "f1e3"
+	},
+	{
+		"icon": "gamepad",
+		"name": "Gamepad",
+		"code": "f11b"
+	},
+	{
+		"icon": "gavel",
+		"name": "Gavel",
+		"code": "f0e3"
+	},
+	{
+		"icon": "gbp",
+		"name": "Gbp",
+		"code": "f154"
+	},
+	{
+		"icon": "genderless",
+		"name": "Genderless",
+		"code": "f22d"
+	},
+	{
+		"icon": "get-pocket",
+		"name": "Get Pocket",
+		"code": "f265"
+	},
+	{
+		"icon": "gg",
+		"name": "Gg",
+		"code": "f260"
+	},
+	{
+		"icon": "gg-circle",
+		"name": "Gg Circle",
+		"code": "f261"
+	},
+	{
+		"icon": "gift",
+		"name": "Gift",
+		"code": "f06b"
+	},
+	{
+		"icon": "git",
+		"name": "Git",
+		"code": "f1d3"
+	},
+	{
+		"icon": "git-square",
+		"name": "Git Square",
+		"code": "f1d2"
+	},
+	{
+		"icon": "github",
+		"name": "Github",
+		"code": "f09b"
+	},
+	{
+		"icon": "github-alt",
+		"name": "Github Alt",
+		"code": "f113"
+	},
+	{
+		"icon": "github-square",
+		"name": "Github Square",
+		"code": "f092"
+	},
+	{
+		"icon": "gitlab",
+		"name": "Gitlab",
+		"code": "f296"
+	},
+	{
+		"icon": "glass",
+		"name": "Glass",
+		"code": "f000"
+	},
+	{
+		"icon": "glide",
+		"name": "Glide",
+		"code": "f2a5"
+	},
+	{
+		"icon": "glide-g",
+		"name": "Glide G",
+		"code": "f2a6"
+	},
+	{
+		"icon": "globe",
+		"name": "Globe",
+		"code": "f0ac"
+	},
+	{
+		"icon": "google",
+		"name": "Google",
+		"code": "f1a0"
+	},
+	{
+		"icon": "google-plus",
+		"name": "Google Plus",
+		"code": "f0d5"
+	},
+	{
+		"icon": "google-plus-official",
+		"name": "Google Plus Official",
+		"code": "f2b3"
+	},
+	{
+		"icon": "google-plus-square",
+		"name": "Google Plus Square",
+		"code": "f0d4"
+	},
+	{
+		"icon": "google-wallet",
+		"name": "Google Wallet",
+		"code": "f1ee"
+	},
+	{
+		"icon": "graduation-cap",
+		"name": "Graduation Cap",
+		"code": "f19d"
+	},
+	{
+		"icon": "gratipay",
+		"name": "Gratipay",
+		"code": "f184"
+	},
+	{
+		"icon": "grav",
+		"name": "Grav",
+		"code": "f2d6"
+	},
+	{
+		"icon": "h-square",
+		"name": "H Square",
+		"code": "f0fd"
+	},
+	{
+		"icon": "hacker-news",
+		"name": "Hacker News",
+		"code": "f1d4"
+	},
+	{
+		"icon": "hand-lizard-o",
+		"name": "Hand Lizard O",
+		"code": "f258"
+	},
+	{
+		"icon": "hand-o-down",
+		"name": "Hand O Down",
+		"code": "f0a7"
+	},
+	{
+		"icon": "hand-o-left",
+		"name": "Hand O Left",
+		"code": "f0a5"
+	},
+	{
+		"icon": "hand-o-right",
+		"name": "Hand O Right",
+		"code": "f0a4"
+	},
+	{
+		"icon": "hand-o-up",
+		"name": "Hand O Up",
+		"code": "f0a6"
+	},
+	{
+		"icon": "hand-paper-o",
+		"name": "Hand Paper O",
+		"code": "f256"
+	},
+	{
+		"icon": "hand-peace-o",
+		"name": "Hand Peace O",
+		"code": "f25b"
+	},
+	{
+		"icon": "hand-pointer-o",
+		"name": "Hand Pointer O",
+		"code": "f25a"
+	},
+	{
+		"icon": "hand-rock-o",
+		"name": "Hand Rock O",
+		"code": "f255"
+	},
+	{
+		"icon": "hand-scissors-o",
+		"name": "Hand Scissors O",
+		"code": "f257"
+	},
+	{
+		"icon": "hand-spock-o",
+		"name": "Hand Spock O",
+		"code": "f259"
+	},
+	{
+		"icon": "handshake-o",
+		"name": "Handshake O",
+		"code": "f2b5"
+	},
+	{
+		"icon": "hashtag",
+		"name": "Hashtag",
+		"code": "f292"
+	},
+	{
+		"icon": "hdd-o",
+		"name": "Hdd O",
+		"code": "f0a0"
+	},
+	{
+		"icon": "header",
+		"name": "Header",
+		"code": "f1dc"
+	},
+	{
+		"icon": "headphones",
+		"name": "Headphones",
+		"code": "f025"
+	},
+	{
+		"icon": "heart",
+		"name": "Heart",
+		"code": "f004"
+	},
+	{
+		"icon": "heart-o",
+		"name": "Heart O",
+		"code": "f08a"
+	},
+	{
+		"icon": "heartbeat",
+		"name": "Heartbeat",
+		"code": "f21e"
+	},
+	{
+		"icon": "history",
+		"name": "History",
+		"code": "f1da"
+	},
+	{
+		"icon": "home",
+		"name": "Home",
+		"code": "f015"
+	},
+	{
+		"icon": "hospital-o",
+		"name": "Hospital O",
+		"code": "f0f8"
+	},
+	{
+		"icon": "hourglass",
+		"name": "Hourglass",
+		"code": "f254"
+	},
+	{
+		"icon": "hourglass-end",
+		"name": "Hourglass End",
+		"code": "f253"
+	},
+	{
+		"icon": "hourglass-half",
+		"name": "Hourglass Half",
+		"code": "f252"
+	},
+	{
+		"icon": "hourglass-o",
+		"name": "Hourglass O",
+		"code": "f250"
+	},
+	{
+		"icon": "hourglass-start",
+		"name": "Hourglass Start",
+		"code": "f251"
+	},
+	{
+		"icon": "houzz",
+		"name": "Houzz",
+		"code": "f27c"
+	},
+	{
+		"icon": "html5",
+		"name": "Html5",
+		"code": "f13b"
+	},
+	{
+		"icon": "i-cursor",
+		"name": "I Cursor",
+		"code": "f246"
+	},
+	{
+		"icon": "id-badge",
+		"name": "Id Badge",
+		"code": "f2c1"
+	},
+	{
+		"icon": "id-card",
+		"name": "Id Card",
+		"code": "f2c2"
+	},
+	{
+		"icon": "id-card-o",
+		"name": "Id Card O",
+		"code": "f2c3"
+	},
+	{
+		"icon": "ils",
+		"name": "Ils",
+		"code": "f20b"
+	},
+	{
+		"icon": "imdb",
+		"name": "Imdb",
+		"code": "f2d8"
+	},
+	{
+		"icon": "inbox",
+		"name": "Inbox",
+		"code": "f01c"
+	},
+	{
+		"icon": "indent",
+		"name": "Indent",
+		"code": "f03c"
+	},
+	{
+		"icon": "industry",
+		"name": "Industry",
+		"code": "f275"
+	},
+	{
+		"icon": "info",
+		"name": "Info",
+		"code": "f129"
+	},
+	{
+		"icon": "info-circle",
+		"name": "Info Circle",
+		"code": "f05a"
+	},
+	{
+		"icon": "inr",
+		"name": "Inr",
+		"code": "f156"
+	},
+	{
+		"icon": "instagram",
+		"name": "Instagram",
+		"code": "f16d"
+	},
+	{
+		"icon": "internet-explorer",
+		"name": "Internet Explorer",
+		"code": "f26b"
+	},
+	{
+		"icon": "ioxhost",
+		"name": "Ioxhost",
+		"code": "f208"
+	},
+	{
+		"icon": "italic",
+		"name": "Italic",
+		"code": "f033"
+	},
+	{
+		"icon": "joomla",
+		"name": "Joomla",
+		"code": "f1aa"
+	},
+	{
+		"icon": "jpy",
+		"name": "Jpy",
+		"code": "f157"
+	},
+	{
+		"icon": "jsfiddle",
+		"name": "Jsfiddle",
+		"code": "f1cc"
+	},
+	{
+		"icon": "key",
+		"name": "Key",
+		"code": "f084"
+	},
+	{
+		"icon": "keyboard-o",
+		"name": "Keyboard O",
+		"code": "f11c"
+	},
+	{
+		"icon": "krw",
+		"name": "Krw",
+		"code": "f159"
+	},
+	{
+		"icon": "language",
+		"name": "Language",
+		"code": "f1ab"
+	},
+	{
+		"icon": "laptop",
+		"name": "Laptop",
+		"code": "f109"
+	},
+	{
+		"icon": "lastfm",
+		"name": "Lastfm",
+		"code": "f202"
+	},
+	{
+		"icon": "lastfm-square",
+		"name": "Lastfm Square",
+		"code": "f203"
+	},
+	{
+		"icon": "leaf",
+		"name": "Leaf",
+		"code": "f06c"
+	},
+	{
+		"icon": "leanpub",
+		"name": "Leanpub",
+		"code": "f212"
+	},
+	{
+		"icon": "lemon-o",
+		"name": "Lemon O",
+		"code": "f094"
+	},
+	{
+		"icon": "level-down",
+		"name": "Level Down",
+		"code": "f149"
+	},
+	{
+		"icon": "level-up",
+		"name": "Level Up",
+		"code": "f148"
+	},
+	{
+		"icon": "life-ring",
+		"name": "Life Ring",
+		"code": "f1cd"
+	},
+	{
+		"icon": "lightbulb-o",
+		"name": "Lightbulb O",
+		"code": "f0eb"
+	},
+	{
+		"icon": "line-chart",
+		"name": "Line Chart",
+		"code": "f201"
+	},
+	{
+		"icon": "link",
+		"name": "Link",
+		"code": "f0c1"
+	},
+	{
+		"icon": "linkedin",
+		"name": "Linkedin",
+		"code": "f0e1"
+	},
+	{
+		"icon": "linkedin-square",
+		"name": "Linkedin Square",
+		"code": "f08c"
+	},
+	{
+		"icon": "linode",
+		"name": "Linode",
+		"code": "f2b8"
+	},
+	{
+		"icon": "linux",
+		"name": "Linux",
+		"code": "f17c"
+	},
+	{
+		"icon": "list",
+		"name": "List",
+		"code": "f03a"
+	},
+	{
+		"icon": "list-alt",
+		"name": "List Alt",
+		"code": "f022"
+	},
+	{
+		"icon": "list-ol",
+		"name": "List Ol",
+		"code": "f0cb"
+	},
+	{
+		"icon": "list-ul",
+		"name": "List Ul",
+		"code": "f0ca"
+	},
+	{
+		"icon": "location-arrow",
+		"name": "Location Arrow",
+		"code": "f124"
+	},
+	{
+		"icon": "lock",
+		"name": "Lock",
+		"code": "f023"
+	},
+	{
+		"icon": "long-arrow-down",
+		"name": "Long Arrow Down",
+		"code": "f175"
+	},
+	{
+		"icon": "long-arrow-left",
+		"name": "Long Arrow Left",
+		"code": "f177"
+	},
+	{
+		"icon": "long-arrow-right",
+		"name": "Long Arrow Right",
+		"code": "f178"
+	},
+	{
+		"icon": "long-arrow-up",
+		"name": "Long Arrow Up",
+		"code": "f176"
+	},
+	{
+		"icon": "low-vision",
+		"name": "Low Vision",
+		"code": "f2a8"
+	},
+	{
+		"icon": "magic",
+		"name": "Magic",
+		"code": "f0d0"
+	},
+	{
+		"icon": "magnet",
+		"name": "Magnet",
+		"code": "f076"
+	},
+	{
+		"icon": "male",
+		"name": "Male",
+		"code": "f183"
+	},
+	{
+		"icon": "map",
+		"name": "Map",
+		"code": "f279"
+	},
+	{
+		"icon": "map-marker",
+		"name": "Map Marker",
+		"code": "f041"
+	},
+	{
+		"icon": "map-o",
+		"name": "Map O",
+		"code": "f278"
+	},
+	{
+		"icon": "map-pin",
+		"name": "Map Pin",
+		"code": "f276"
+	},
+	{
+		"icon": "map-signs",
+		"name": "Map Signs",
+		"code": "f277"
+	},
+	{
+		"icon": "mars",
+		"name": "Mars",
+		"code": "f222"
+	},
+	{
+		"icon": "mars-double",
+		"name": "Mars Double",
+		"code": "f227"
+	},
+	{
+		"icon": "mars-stroke",
+		"name": "Mars Stroke",
+		"code": "f229"
+	},
+	{
+		"icon": "mars-stroke-h",
+		"name": "Mars Stroke H",
+		"code": "f22b"
+	},
+	{
+		"icon": "mars-stroke-v",
+		"name": "Mars Stroke V",
+		"code": "f22a"
+	},
+	{
+		"icon": "maxcdn",
+		"name": "Maxcdn",
+		"code": "f136"
+	},
+	{
+		"icon": "meanpath",
+		"name": "Meanpath",
+		"code": "f20c"
+	},
+	{
+		"icon": "medium",
+		"name": "Medium",
+		"code": "f23a"
+	},
+	{
+		"icon": "medkit",
+		"name": "Medkit",
+		"code": "f0fa"
+	},
+	{
+		"icon": "meetup",
+		"name": "Meetup",
+		"code": "f2e0"
+	},
+	{
+		"icon": "meh-o",
+		"name": "Meh O",
+		"code": "f11a"
+	},
+	{
+		"icon": "mercury",
+		"name": "Mercury",
+		"code": "f223"
+	},
+	{
+		"icon": "microchip",
+		"name": "Microchip",
+		"code": "f2db"
+	},
+	{
+		"icon": "microphone",
+		"name": "Microphone",
+		"code": "f130"
+	},
+	{
+		"icon": "microphone-slash",
+		"name": "Microphone Slash",
+		"code": "f131"
+	},
+	{
+		"icon": "minus",
+		"name": "Minus",
+		"code": "f068"
+	},
+	{
+		"icon": "minus-circle",
+		"name": "Minus Circle",
+		"code": "f056"
+	},
+	{
+		"icon": "minus-square",
+		"name": "Minus Square",
+		"code": "f146"
+	},
+	{
+		"icon": "minus-square-o",
+		"name": "Minus Square O",
+		"code": "f147"
+	},
+	{
+		"icon": "mixcloud",
+		"name": "Mixcloud",
+		"code": "f289"
+	},
+	{
+		"icon": "mobile",
+		"name": "Mobile",
+		"code": "f10b"
+	},
+	{
+		"icon": "modx",
+		"name": "Modx",
+		"code": "f285"
+	},
+	{
+		"icon": "money",
+		"name": "Money",
+		"code": "f0d6"
+	},
+	{
+		"icon": "moon-o",
+		"name": "Moon O",
+		"code": "f186"
+	},
+	{
+		"icon": "motorcycle",
+		"name": "Motorcycle",
+		"code": "f21c"
+	},
+	{
+		"icon": "mouse-pointer",
+		"name": "Mouse Pointer",
+		"code": "f245"
+	},
+	{
+		"icon": "music",
+		"name": "Music",
+		"code": "f001"
+	},
+	{
+		"icon": "neuter",
+		"name": "Neuter",
+		"code": "f22c"
+	},
+	{
+		"icon": "newspaper-o",
+		"name": "Newspaper O",
+		"code": "f1ea"
+	},
+	{
+		"icon": "object-group",
+		"name": "Object Group",
+		"code": "f247"
+	},
+	{
+		"icon": "object-ungroup",
+		"name": "Object Ungroup",
+		"code": "f248"
+	},
+	{
+		"icon": "odnoklassniki",
+		"name": "Odnoklassniki",
+		"code": "f263"
+	},
+	{
+		"icon": "odnoklassniki-square",
+		"name": "Odnoklassniki Square",
+		"code": "f264"
+	},
+	{
+		"icon": "opencart",
+		"name": "Opencart",
+		"code": "f23d"
+	},
+	{
+		"icon": "openid",
+		"name": "Openid",
+		"code": "f19b"
+	},
+	{
+		"icon": "opera",
+		"name": "Opera",
+		"code": "f26a"
+	},
+	{
+		"icon": "optin-monster",
+		"name": "Optin Monster",
+		"code": "f23c"
+	},
+	{
+		"icon": "outdent",
+		"name": "Outdent",
+		"code": "f03b"
+	},
+	{
+		"icon": "pagelines",
+		"name": "Pagelines",
+		"code": "f18c"
+	},
+	{
+		"icon": "paint-brush",
+		"name": "Paint Brush",
+		"code": "f1fc"
+	},
+	{
+		"icon": "paper-plane",
+		"name": "Paper Plane",
+		"code": "f1d8"
+	},
+	{
+		"icon": "paper-plane-o",
+		"name": "Paper Plane O",
+		"code": "f1d9"
+	},
+	{
+		"icon": "paperclip",
+		"name": "Paperclip",
+		"code": "f0c6"
+	},
+	{
+		"icon": "paragraph",
+		"name": "Paragraph",
+		"code": "f1dd"
+	},
+	{
+		"icon": "pause",
+		"name": "Pause",
+		"code": "f04c"
+	},
+	{
+		"icon": "pause-circle",
+		"name": "Pause Circle",
+		"code": "f28b"
+	},
+	{
+		"icon": "pause-circle-o",
+		"name": "Pause Circle O",
+		"code": "f28c"
+	},
+	{
+		"icon": "paw",
+		"name": "Paw",
+		"code": "f1b0"
+	},
+	{
+		"icon": "paypal",
+		"name": "Paypal",
+		"code": "f1ed"
+	},
+	{
+		"icon": "pencil",
+		"name": "Pencil",
+		"code": "f040"
+	},
+	{
+		"icon": "pencil-square",
+		"name": "Pencil Square",
+		"code": "f14b"
+	},
+	{
+		"icon": "pencil-square-o",
+		"name": "Pencil Square O",
+		"code": "f044"
+	},
+	{
+		"icon": "percent",
+		"name": "Percent",
+		"code": "f295"
+	},
+	{
+		"icon": "phone",
+		"name": "Phone",
+		"code": "f095"
+	},
+	{
+		"icon": "phone-square",
+		"name": "Phone Square",
+		"code": "f098"
+	},
+	{
+		"icon": "picture-o",
+		"name": "Picture O",
+		"code": "f03e"
+	},
+	{
+		"icon": "pie-chart",
+		"name": "Pie Chart",
+		"code": "f200"
+	},
+	{
+		"icon": "pied-piper",
+		"name": "Pied Piper",
+		"code": "f2ae"
+	},
+	{
+		"icon": "pied-piper-alt",
+		"name": "Pied Piper Alt",
+		"code": "f1a8"
+	},
+	{
+		"icon": "pied-piper-pp",
+		"name": "Pied Piper Pp",
+		"code": "f1a7"
+	},
+	{
+		"icon": "pinterest",
+		"name": "Pinterest",
+		"code": "f0d2"
+	},
+	{
+		"icon": "pinterest-p",
+		"name": "Pinterest P",
+		"code": "f231"
+	},
+	{
+		"icon": "pinterest-square",
+		"name": "Pinterest Square",
+		"code": "f0d3"
+	},
+	{
+		"icon": "plane",
+		"name": "Plane",
+		"code": "f072"
+	},
+	{
+		"icon": "play",
+		"name": "Play",
+		"code": "f04b"
+	},
+	{
+		"icon": "play-circle",
+		"name": "Play Circle",
+		"code": "f144"
+	},
+	{
+		"icon": "play-circle-o",
+		"name": "Play Circle O",
+		"code": "f01d"
+	},
+	{
+		"icon": "plug",
+		"name": "Plug",
+		"code": "f1e6"
+	},
+	{
+		"icon": "plus",
+		"name": "Plus",
+		"code": "f067"
+	},
+	{
+		"icon": "plus-circle",
+		"name": "Plus Circle",
+		"code": "f055"
+	},
+	{
+		"icon": "plus-square",
+		"name": "Plus Square",
+		"code": "f0fe"
+	},
+	{
+		"icon": "plus-square-o",
+		"name": "Plus Square O",
+		"code": "f196"
+	},
+	{
+		"icon": "podcast",
+		"name": "Podcast",
+		"code": "f2ce"
+	},
+	{
+		"icon": "power-off",
+		"name": "Power Off",
+		"code": "f011"
+	},
+	{
+		"icon": "print",
+		"name": "Print",
+		"code": "f02f"
+	},
+	{
+		"icon": "product-hunt",
+		"name": "Product Hunt",
+		"code": "f288"
+	},
+	{
+		"icon": "puzzle-piece",
+		"name": "Puzzle Piece",
+		"code": "f12e"
+	},
+	{
+		"icon": "qq",
+		"name": "Qq",
+		"code": "f1d6"
+	},
+	{
+		"icon": "qrcode",
+		"name": "Qrcode",
+		"code": "f029"
+	},
+	{
+		"icon": "question",
+		"name": "Question",
+		"code": "f128"
+	},
+	{
+		"icon": "question-circle",
+		"name": "Question Circle",
+		"code": "f059"
+	},
+	{
+		"icon": "question-circle-o",
+		"name": "Question Circle O",
+		"code": "f29c"
+	},
+	{
+		"icon": "quora",
+		"name": "Quora",
+		"code": "f2c4"
+	},
+	{
+		"icon": "quote-left",
+		"name": "Quote Left",
+		"code": "f10d"
+	},
+	{
+		"icon": "quote-right",
+		"name": "Quote Right",
+		"code": "f10e"
+	},
+	{
+		"icon": "random",
+		"name": "Random",
+		"code": "f074"
+	},
+	{
+		"icon": "ravelry",
+		"name": "Ravelry",
+		"code": "f2d9"
+	},
+	{
+		"icon": "rebel",
+		"name": "Rebel",
+		"code": "f1d0"
+	},
+	{
+		"icon": "recycle",
+		"name": "Recycle",
+		"code": "f1b8"
+	},
+	{
+		"icon": "reddit",
+		"name": "Reddit",
+		"code": "f1a1"
+	},
+	{
+		"icon": "reddit-alien",
+		"name": "Reddit Alien",
+		"code": "f281"
+	},
+	{
+		"icon": "reddit-square",
+		"name": "Reddit Square",
+		"code": "f1a2"
+	},
+	{
+		"icon": "refresh",
+		"name": "Refresh",
+		"code": "f021"
+	},
+	{
+		"icon": "registered",
+		"name": "Registered",
+		"code": "f25d"
+	},
+	{
+		"icon": "renren",
+		"name": "Renren",
+		"code": "f18b"
+	},
+	{
+		"icon": "repeat",
+		"name": "Repeat",
+		"code": "f01e"
+	},
+	{
+		"icon": "reply",
+		"name": "Reply",
+		"code": "f112"
+	},
+	{
+		"icon": "reply-all",
+		"name": "Reply All",
+		"code": "f122"
+	},
+	{
+		"icon": "retweet",
+		"name": "Retweet",
+		"code": "f079"
+	},
+	{
+		"icon": "road",
+		"name": "Road",
+		"code": "f018"
+	},
+	{
+		"icon": "rocket",
+		"name": "Rocket",
+		"code": "f135"
+	},
+	{
+		"icon": "rss",
+		"name": "Rss",
+		"code": "f09e"
+	},
+	{
+		"icon": "rss-square",
+		"name": "Rss Square",
+		"code": "f143"
+	},
+	{
+		"icon": "rub",
+		"name": "Rub",
+		"code": "f158"
+	},
+	{
+		"icon": "safari",
+		"name": "Safari",
+		"code": "f267"
+	},
+	{
+		"icon": "scissors",
+		"name": "Scissors",
+		"code": "f0c4"
+	},
+	{
+		"icon": "scribd",
+		"name": "Scribd",
+		"code": "f28a"
+	},
+	{
+		"icon": "search",
+		"name": "Search",
+		"code": "f002"
+	},
+	{
+		"icon": "search-minus",
+		"name": "Search Minus",
+		"code": "f010"
+	},
+	{
+		"icon": "search-plus",
+		"name": "Search Plus",
+		"code": "f00e"
+	},
+	{
+		"icon": "sellsy",
+		"name": "Sellsy",
+		"code": "f213"
+	},
+	{
+		"icon": "server",
+		"name": "Server",
+		"code": "f233"
+	},
+	{
+		"icon": "share",
+		"name": "Share",
+		"code": "f064"
+	},
+	{
+		"icon": "share-alt",
+		"name": "Share Alt",
+		"code": "f1e0"
+	},
+	{
+		"icon": "share-alt-square",
+		"name": "Share Alt Square",
+		"code": "f1e1"
+	},
+	{
+		"icon": "share-square",
+		"name": "Share Square",
+		"code": "f14d"
+	},
+	{
+		"icon": "share-square-o",
+		"name": "Share Square O",
+		"code": "f045"
+	},
+	{
+		"icon": "shield",
+		"name": "Shield",
+		"code": "f132"
+	},
+	{
+		"icon": "ship",
+		"name": "Ship",
+		"code": "f21a"
+	},
+	{
+		"icon": "shirtsinbulk",
+		"name": "Shirtsinbulk",
+		"code": "f214"
+	},
+	{
+		"icon": "shopping-bag",
+		"name": "Shopping Bag",
+		"code": "f290"
+	},
+	{
+		"icon": "shopping-basket",
+		"name": "Shopping Basket",
+		"code": "f291"
+	},
+	{
+		"icon": "shopping-cart",
+		"name": "Shopping Cart",
+		"code": "f07a"
+	},
+	{
+		"icon": "shower",
+		"name": "Shower",
+		"code": "f2cc"
+	},
+	{
+		"icon": "sign-in",
+		"name": "Sign In",
+		"code": "f090"
+	},
+	{
+		"icon": "sign-language",
+		"name": "Sign Language",
+		"code": "f2a7"
+	},
+	{
+		"icon": "sign-out",
+		"name": "Sign Out",
+		"code": "f08b"
+	},
+	{
+		"icon": "signal",
+		"name": "Signal",
+		"code": "f012"
+	},
+	{
+		"icon": "simplybuilt",
+		"name": "Simplybuilt",
+		"code": "f215"
+	},
+	{
+		"icon": "sitemap",
+		"name": "Sitemap",
+		"code": "f0e8"
+	},
+	{
+		"icon": "skyatlas",
+		"name": "Skyatlas",
+		"code": "f216"
+	},
+	{
+		"icon": "skype",
+		"name": "Skype",
+		"code": "f17e"
+	},
+	{
+		"icon": "slack",
+		"name": "Slack",
+		"code": "f198"
+	},
+	{
+		"icon": "sliders",
+		"name": "Sliders",
+		"code": "f1de"
+	},
+	{
+		"icon": "slideshare",
+		"name": "Slideshare",
+		"code": "f1e7"
+	},
+	{
+		"icon": "smile-o",
+		"name": "Smile O",
+		"code": "f118"
+	},
+	{
+		"icon": "snapchat",
+		"name": "Snapchat",
+		"code": "f2ab"
+	},
+	{
+		"icon": "snapchat-ghost",
+		"name": "Snapchat Ghost",
+		"code": "f2ac"
+	},
+	{
+		"icon": "snapchat-square",
+		"name": "Snapchat Square",
+		"code": "f2ad"
+	},
+	{
+		"icon": "snowflake-o",
+		"name": "Snowflake O",
+		"code": "f2dc"
+	},
+	{
+		"icon": "sort",
+		"name": "Sort",
+		"code": "f0dc"
+	},
+	{
+		"icon": "sort-alpha-asc",
+		"name": "Sort Alpha Asc",
+		"code": "f15d"
+	},
+	{
+		"icon": "sort-alpha-desc",
+		"name": "Sort Alpha Desc",
+		"code": "f15e"
+	},
+	{
+		"icon": "sort-amount-asc",
+		"name": "Sort Amount Asc",
+		"code": "f160"
+	},
+	{
+		"icon": "sort-amount-desc",
+		"name": "Sort Amount Desc",
+		"code": "f161"
+	},
+	{
+		"icon": "sort-asc",
+		"name": "Sort Asc",
+		"code": "f0de"
+	},
+	{
+		"icon": "sort-desc",
+		"name": "Sort Desc",
+		"code": "f0dd"
+	},
+	{
+		"icon": "sort-numeric-asc",
+		"name": "Sort Numeric Asc",
+		"code": "f162"
+	},
+	{
+		"icon": "sort-numeric-desc",
+		"name": "Sort Numeric Desc",
+		"code": "f163"
+	},
+	{
+		"icon": "soundcloud",
+		"name": "Soundcloud",
+		"code": "f1be"
+	},
+	{
+		"icon": "space-shuttle",
+		"name": "Space Shuttle",
+		"code": "f197"
+	},
+	{
+		"icon": "spinner",
+		"name": "Spinner",
+		"code": "f110"
+	},
+	{
+		"icon": "spoon",
+		"name": "Spoon",
+		"code": "f1b1"
+	},
+	{
+		"icon": "spotify",
+		"name": "Spotify",
+		"code": "f1bc"
+	},
+	{
+		"icon": "square",
+		"name": "Square",
+		"code": "f0c8"
+	},
+	{
+		"icon": "square-o",
+		"name": "Square O",
+		"code": "f096"
+	},
+	{
+		"icon": "stack-exchange",
+		"name": "Stack Exchange",
+		"code": "f18d"
+	},
+	{
+		"icon": "stack-overflow",
+		"name": "Stack Overflow",
+		"code": "f16c"
+	},
+	{
+		"icon": "star",
+		"name": "Star",
+		"code": "f005"
+	},
+	{
+		"icon": "star-half",
+		"name": "Star Half",
+		"code": "f089"
+	},
+	{
+		"icon": "star-half-o",
+		"name": "Star Half O",
+		"code": "f123"
+	},
+	{
+		"icon": "star-o",
+		"name": "Star O",
+		"code": "f006"
+	},
+	{
+		"icon": "steam",
+		"name": "Steam",
+		"code": "f1b6"
+	},
+	{
+		"icon": "steam-square",
+		"name": "Steam Square",
+		"code": "f1b7"
+	},
+	{
+		"icon": "step-backward",
+		"name": "Step Backward",
+		"code": "f048"
+	},
+	{
+		"icon": "step-forward",
+		"name": "Step Forward",
+		"code": "f051"
+	},
+	{
+		"icon": "stethoscope",
+		"name": "Stethoscope",
+		"code": "f0f1"
+	},
+	{
+		"icon": "sticky-note",
+		"name": "Sticky Note",
+		"code": "f249"
+	},
+	{
+		"icon": "sticky-note-o",
+		"name": "Sticky Note O",
+		"code": "f24a"
+	},
+	{
+		"icon": "stop",
+		"name": "Stop",
+		"code": "f04d"
+	},
+	{
+		"icon": "stop-circle",
+		"name": "Stop Circle",
+		"code": "f28d"
+	},
+	{
+		"icon": "stop-circle-o",
+		"name": "Stop Circle O",
+		"code": "f28e"
+	},
+	{
+		"icon": "street-view",
+		"name": "Street View",
+		"code": "f21d"
+	},
+	{
+		"icon": "strikethrough",
+		"name": "Strikethrough",
+		"code": "f0cc"
+	},
+	{
+		"icon": "stumbleupon",
+		"name": "Stumbleupon",
+		"code": "f1a4"
+	},
+	{
+		"icon": "stumbleupon-circle",
+		"name": "Stumbleupon Circle",
+		"code": "f1a3"
+	},
+	{
+		"icon": "subscript",
+		"name": "Subscript",
+		"code": "f12c"
+	},
+	{
+		"icon": "subway",
+		"name": "Subway",
+		"code": "f239"
+	},
+	{
+		"icon": "suitcase",
+		"name": "Suitcase",
+		"code": "f0f2"
+	},
+	{
+		"icon": "sun-o",
+		"name": "Sun O",
+		"code": "f185"
+	},
+	{
+		"icon": "superpowers",
+		"name": "Superpowers",
+		"code": "f2dd"
+	},
+	{
+		"icon": "superscript",
+		"name": "Superscript",
+		"code": "f12b"
+	},
+	{
+		"icon": "table",
+		"name": "Table",
+		"code": "f0ce"
+	},
+	{
+		"icon": "tablet",
+		"name": "Tablet",
+		"code": "f10a"
+	},
+	{
+		"icon": "tachometer",
+		"name": "Tachometer",
+		"code": "f0e4"
+	},
+	{
+		"icon": "tag",
+		"name": "Tag",
+		"code": "f02b"
+	},
+	{
+		"icon": "tags",
+		"name": "Tags",
+		"code": "f02c"
+	},
+	{
+		"icon": "tasks",
+		"name": "Tasks",
+		"code": "f0ae"
+	},
+	{
+		"icon": "taxi",
+		"name": "Taxi",
+		"code": "f1ba"
+	},
+	{
+		"icon": "telegram",
+		"name": "Telegram",
+		"code": "f2c6"
+	},
+	{
+		"icon": "television",
+		"name": "Television",
+		"code": "f26c"
+	},
+	{
+		"icon": "tencent-weibo",
+		"name": "Tencent Weibo",
+		"code": "f1d5"
+	},
+	{
+		"icon": "terminal",
+		"name": "Terminal",
+		"code": "f120"
+	},
+	{
+		"icon": "text-height",
+		"name": "Text Height",
+		"code": "f034"
+	},
+	{
+		"icon": "text-width",
+		"name": "Text Width",
+		"code": "f035"
+	},
+	{
+		"icon": "th",
+		"name": "Th",
+		"code": "f00a"
+	},
+	{
+		"icon": "th-large",
+		"name": "Th Large",
+		"code": "f009"
+	},
+	{
+		"icon": "th-list",
+		"name": "Th List",
+		"code": "f00b"
+	},
+	{
+		"icon": "themeisle",
+		"name": "Themeisle",
+		"code": "f2b2"
+	},
+	{
+		"icon": "thermometer-empty",
+		"name": "Thermometer Empty",
+		"code": "f2cb"
+	},
+	{
+		"icon": "thermometer-full",
+		"name": "Thermometer Full",
+		"code": "f2c7"
+	},
+	{
+		"icon": "thermometer-half",
+		"name": "Thermometer Half",
+		"code": "f2c9"
+	},
+	{
+		"icon": "thermometer-quarter",
+		"name": "Thermometer Quarter",
+		"code": "f2ca"
+	},
+	{
+		"icon": "thermometer-three-quarters",
+		"name": "Thermometer Three Quarters",
+		"code": "f2c8"
+	},
+	{
+		"icon": "thumb-tack",
+		"name": "Thumb Tack",
+		"code": "f08d"
+	},
+	{
+		"icon": "thumbs-down",
+		"name": "Thumbs Down",
+		"code": "f165"
+	},
+	{
+		"icon": "thumbs-o-down",
+		"name": "Thumbs O Down",
+		"code": "f088"
+	},
+	{
+		"icon": "thumbs-o-up",
+		"name": "Thumbs O Up",
+		"code": "f087"
+	},
+	{
+		"icon": "thumbs-up",
+		"name": "Thumbs Up",
+		"code": "f164"
+	},
+	{
+		"icon": "ticket",
+		"name": "Ticket",
+		"code": "f145"
+	},
+	{
+		"icon": "times",
+		"name": "Times",
+		"code": "f00d"
+	},
+	{
+		"icon": "times-circle",
+		"name": "Times Circle",
+		"code": "f057"
+	},
+	{
+		"icon": "times-circle-o",
+		"name": "Times Circle O",
+		"code": "f05c"
+	},
+	{
+		"icon": "tint",
+		"name": "Tint",
+		"code": "f043"
+	},
+	{
+		"icon": "toggle-off",
+		"name": "Toggle Off",
+		"code": "f204"
+	},
+	{
+		"icon": "toggle-on",
+		"name": "Toggle On",
+		"code": "f205"
+	},
+	{
+		"icon": "trademark",
+		"name": "Trademark",
+		"code": "f25c"
+	},
+	{
+		"icon": "train",
+		"name": "Train",
+		"code": "f238"
+	},
+	{
+		"icon": "transgender",
+		"name": "Transgender",
+		"code": "f224"
+	},
+	{
+		"icon": "transgender-alt",
+		"name": "Transgender Alt",
+		"code": "f225"
+	},
+	{
+		"icon": "trash",
+		"name": "Trash",
+		"code": "f1f8"
+	},
+	{
+		"icon": "trash-o",
+		"name": "Trash O",
+		"code": "f014"
+	},
+	{
+		"icon": "tree",
+		"name": "Tree",
+		"code": "f1bb"
+	},
+	{
+		"icon": "trello",
+		"name": "Trello",
+		"code": "f181"
+	},
+	{
+		"icon": "tripadvisor",
+		"name": "Tripadvisor",
+		"code": "f262"
+	},
+	{
+		"icon": "trophy",
+		"name": "Trophy",
+		"code": "f091"
+	},
+	{
+		"icon": "truck",
+		"name": "Truck",
+		"code": "f0d1"
+	},
+	{
+		"icon": "try",
+		"name": "Try",
+		"code": "f195"
+	},
+	{
+		"icon": "tty",
+		"name": "Tty",
+		"code": "f1e4"
+	},
+	{
+		"icon": "tumblr",
+		"name": "Tumblr",
+		"code": "f173"
+	},
+	{
+		"icon": "tumblr-square",
+		"name": "Tumblr Square",
+		"code": "f174"
+	},
+	{
+		"icon": "twitch",
+		"name": "Twitch",
+		"code": "f1e8"
+	},
+	{
+		"icon": "twitter",
+		"name": "Twitter",
+		"code": "f099"
+	},
+	{
+		"icon": "twitter-square",
+		"name": "Twitter Square",
+		"code": "f081"
+	},
+	{
+		"icon": "umbrella",
+		"name": "Umbrella",
+		"code": "f0e9"
+	},
+	{
+		"icon": "underline",
+		"name": "Underline",
+		"code": "f0cd"
+	},
+	{
+		"icon": "undo",
+		"name": "Undo",
+		"code": "f0e2"
+	},
+	{
+		"icon": "universal-access",
+		"name": "Universal Access",
+		"code": "f29a"
+	},
+	{
+		"icon": "university",
+		"name": "University",
+		"code": "f19c"
+	},
+	{
+		"icon": "unlock",
+		"name": "Unlock",
+		"code": "f09c"
+	},
+	{
+		"icon": "unlock-alt",
+		"name": "Unlock Alt",
+		"code": "f13e"
+	},
+	{
+		"icon": "upload",
+		"name": "Upload",
+		"code": "f093"
+	},
+	{
+		"icon": "usb",
+		"name": "Usb",
+		"code": "f287"
+	},
+	{
+		"icon": "usd",
+		"name": "Usd",
+		"code": "f155"
+	},
+	{
+		"icon": "user",
+		"name": "User",
+		"code": "f007"
+	},
+	{
+		"icon": "user-circle",
+		"name": "User Circle",
+		"code": "f2bd"
+	},
+	{
+		"icon": "user-circle-o",
+		"name": "User Circle O",
+		"code": "f2be"
+	},
+	{
+		"icon": "user-md",
+		"name": "User Md",
+		"code": "f0f0"
+	},
+	{
+		"icon": "user-o",
+		"name": "User O",
+		"code": "f2c0"
+	},
+	{
+		"icon": "user-plus",
+		"name": "User Plus",
+		"code": "f234"
+	},
+	{
+		"icon": "user-secret",
+		"name": "User Secret",
+		"code": "f21b"
+	},
+	{
+		"icon": "user-times",
+		"name": "User Times",
+		"code": "f235"
+	},
+	{
+		"icon": "users",
+		"name": "Users",
+		"code": "f0c0"
+	},
+	{
+		"icon": "venus",
+		"name": "Venus",
+		"code": "f221"
+	},
+	{
+		"icon": "venus-double",
+		"name": "Venus Double",
+		"code": "f226"
+	},
+	{
+		"icon": "venus-mars",
+		"name": "Venus Mars",
+		"code": "f228"
+	},
+	{
+		"icon": "viacoin",
+		"name": "Viacoin",
+		"code": "f237"
+	},
+	{
+		"icon": "viadeo",
+		"name": "Viadeo",
+		"code": "f2a9"
+	},
+	{
+		"icon": "viadeo-square",
+		"name": "Viadeo Square",
+		"code": "f2aa"
+	},
+	{
+		"icon": "video-camera",
+		"name": "Video Camera",
+		"code": "f03d"
+	},
+	{
+		"icon": "vimeo",
+		"name": "Vimeo",
+		"code": "f27d"
+	},
+	{
+		"icon": "vimeo-square",
+		"name": "Vimeo Square",
+		"code": "f194"
+	},
+	{
+		"icon": "vine",
+		"name": "Vine",
+		"code": "f1ca"
+	},
+	{
+		"icon": "vk",
+		"name": "Vk",
+		"code": "f189"
+	},
+	{
+		"icon": "volume-control-phone",
+		"name": "Volume Control Phone",
+		"code": "f2a0"
+	},
+	{
+		"icon": "volume-down",
+		"name": "Volume Down",
+		"code": "f027"
+	},
+	{
+		"icon": "volume-off",
+		"name": "Volume Off",
+		"code": "f026"
+	},
+	{
+		"icon": "volume-up",
+		"name": "Volume Up",
+		"code": "f028"
+	},
+	{
+		"icon": "weibo",
+		"name": "Weibo",
+		"code": "f18a"
+	},
+	{
+		"icon": "weixin",
+		"name": "Weixin",
+		"code": "f1d7"
+	},
+	{
+		"icon": "whatsapp",
+		"name": "Whatsapp",
+		"code": "f232"
+	},
+	{
+		"icon": "wheelchair",
+		"name": "Wheelchair",
+		"code": "f193"
+	},
+	{
+		"icon": "wheelchair-alt",
+		"name": "Wheelchair Alt",
+		"code": "f29b"
+	},
+	{
+		"icon": "wifi",
+		"name": "Wifi",
+		"code": "f1eb"
+	},
+	{
+		"icon": "wikipedia-w",
+		"name": "Wikipedia W",
+		"code": "f266"
+	},
+	{
+		"icon": "window-close",
+		"name": "Window Close",
+		"code": "f2d3"
+	},
+	{
+		"icon": "window-close-o",
+		"name": "Window Close O",
+		"code": "f2d4"
+	},
+	{
+		"icon": "window-maximize",
+		"name": "Window Maximize",
+		"code": "f2d0"
+	},
+	{
+		"icon": "window-minimize",
+		"name": "Window Minimize",
+		"code": "f2d1"
+	},
+	{
+		"icon": "window-restore",
+		"name": "Window Restore",
+		"code": "f2d2"
+	},
+	{
+		"icon": "windows",
+		"name": "Windows",
+		"code": "f17a"
+	},
+	{
+		"icon": "wordpress",
+		"name": "Wordpress",
+		"code": "f19a"
+	},
+	{
+		"icon": "wpbeginner",
+		"name": "Wpbeginner",
+		"code": "f297"
+	},
+	{
+		"icon": "wpexplorer",
+		"name": "Wpexplorer",
+		"code": "f2de"
+	},
+	{
+		"icon": "wpforms",
+		"name": "Wpforms",
+		"code": "f298"
+	},
+	{
+		"icon": "wrench",
+		"name": "Wrench",
+		"code": "f0ad"
+	},
+	{
+		"icon": "xing",
+		"name": "Xing",
+		"code": "f168"
+	},
+	{
+		"icon": "xing-square",
+		"name": "Xing Square",
+		"code": "f169"
+	},
+	{
+		"icon": "y-combinator",
+		"name": "Y Combinator",
+		"code": "f23b"
+	},
+	{
+		"icon": "yahoo",
+		"name": "Yahoo",
+		"code": "f19e"
+	},
+	{
+		"icon": "yelp",
+		"name": "Yelp",
+		"code": "f1e9"
+	},
+	{
+		"icon": "yoast",
+		"name": "Yoast",
+		"code": "f2b1"
+	},
+	{
+		"icon": "youtube",
+		"name": "Youtube",
+		"code": "f167"
+	},
+	{
+		"icon": "youtube-play",
+		"name": "Youtube Play",
+		"code": "f16a"
+	},
+	{
+		"icon": "youtube-square",
+		"name": "Youtube Square",
+		"code": "f166"
+	}
+]
